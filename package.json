@@ -6,6 +6,9 @@
   "bin": {
     "airtable-backup": "./index.js"
   },
+  "scripts": {
+    "test": "standard"
+  },
   "author": "Andrey Zharikov <andrey@zharikov.pro> (https://www.zharikov.pro)",
   "license": "MIT",
   "engines": {
@@ -19,5 +22,8 @@
     "lodash": "^4.17.4",
     "prfun": "^2.1.4",
     "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
   }
 }

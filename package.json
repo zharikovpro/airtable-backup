@@ -1,10 +1,10 @@
 {
   "name": "airtable-backup",
   "repository": "zharikovpro/airtable-backup",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Backup AirTable records and attachments for a given account",
   "bin": {
-    "airtable-backups": "./index.js"
+    "airtable-backup": "./index.js"
   },
   "author": "Andrey Zharikov <andrey@zharikov.pro> (https://www.zharikov.pro)",
   "license": "MIT",

@@ -1,7 +1,7 @@
 {
   "name": "airtable-backup",
   "repository": "zharikovpro/airtable-backup",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Backup AirTable records and attachments for a given account",
   "bin": {
     "airtable-backups": "./index.js"

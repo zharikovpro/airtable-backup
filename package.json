@@ -18,7 +18,7 @@
     "@3846masa/axios-cookiejar-support": "0.0.5",
     "airtable": "^0.7.2",
     "async": "^2.5.0",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.4",
     "prfun": "^2.1.4",
     "request": "^2.81.0"

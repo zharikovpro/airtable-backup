@@ -1,3 +1,7 @@
+# Deprecated
+
+**No longer maintained**
+
 # Installation
 
 *Requires Node v8.1.4+*
